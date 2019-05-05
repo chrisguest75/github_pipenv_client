@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from github_pipenv_package_example import sample_class
 
 if __name__ == '__main__':
