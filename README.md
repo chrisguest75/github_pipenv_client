@@ -9,6 +9,12 @@ I've left the package uninstalled by default so different mechanisms can be used
 ```
 export PIPENV_VENV_IN_PROJECT=1
 pipenv install --three
+pipenv shell
+
+# Choose a mechanism from below to install the package
+pipenv install .....
+
+./main.py
 ```
 
 # Installing package from local directory
